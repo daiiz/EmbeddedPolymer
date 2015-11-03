@@ -1,0 +1,16 @@
+{
+  "name": "embedded-polymer",
+  "version": "0.0.1",
+  "authors": ["daiz"],
+  "description": "Embedded Polymer (Experimental)",
+  "keywords": [],
+  "main": "price-tax.html",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
